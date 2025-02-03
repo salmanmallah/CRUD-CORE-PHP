@@ -3,7 +3,7 @@
 ![Project Screenshot](https://github.com/salmanmallah/CRUD-CORE-PHP/blob/main/assets/project_wireframe_diagram.jpg) 
 ![Project Screenshot](https://github.com/salmanmallah/CRUD-CORE-PHP/blob/main/assets/1-login_page.png) 
 ![Project Screenshot](https://github.com/salmanmallah/CRUD-CORE-PHP/blob/main/assets/2-signup_page.png)  
-![Project Screenshot](https://github.com/salmanmallah/CRUD-CORE-PHP/blob/main/assets/3-user_role_logged_in.png)  
+![Project Screenshot](https://github.com/salmanmallah/CRUD-CORE-PHP/blob/main/assets/2-signup_page.png)  
 ![Project Screenshot](https://github.com/salmanmallah/CRUD-CORE-PHP/blob/main/assets/4-loged_in_as_admin.png)  
 *A modern web application for efficient user management with role-based access control.*
 
