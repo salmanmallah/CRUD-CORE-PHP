@@ -1,8 +1,10 @@
 # 🔧 User Management System
 
-![Project Screenshot](screenshots/dashboard.png) 
-![Project Screenshot](screenshots/dashboard.png)  
-![Project Screenshot](screenshots/dashboard.png)  
+![Project Screenshot](https://github.com/salmanmallah/CRUD-CORE-PHP/blob/main/assets/project_wireframe_diagram.jpg) 
+![Project Screenshot](https://github.com/salmanmallah/CRUD-CORE-PHP/blob/main/assets/1-login_page.png) 
+![Project Screenshot](https://github.com/salmanmallah/CRUD-CORE-PHP/blob/main/assets/2-signup_page.png)  
+![Project Screenshot](http://github.com/salmanmallah/CRUD-CORE-PHP/blob/main/assets/3-user_role_logged_in.png)  
+![Project Screenshot](https://github.com/salmanmallah/CRUD-CORE-PHP/blob/main/assets/4-loged_in_as_admin.png)  
 *A modern web application for efficient user management with role-based access control.*
 
 ## 🚀 Overview
@@ -32,5 +34,5 @@ A secure CRUD (Create, Read, Update, Delete) web application designed for stream
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/yourusername/user-management-system.git
+   git clone https://github.com/salmanmallah/CRUD-CORE-PHP.git
    cd user-management-system
