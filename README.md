@@ -1,5 +1,7 @@
 # 🔧 User Management System
 
+![Project Screenshot](screenshots/dashboard.png) 
+![Project Screenshot](screenshots/dashboard.png)  
 ![Project Screenshot](screenshots/dashboard.png)  
 *A modern web application for efficient user management with role-based access control.*
 
