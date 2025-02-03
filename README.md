@@ -1,25 +1,34 @@
-# CRUD Application
+# 🔧 User Management System
 
-This project is a user-friendly web-based CRUD (Create, Read, Update, Delete) application designed for managing user information efficiently. It supports **role-based access control** with distinct interfaces for administrators and regular users.
+![Project Screenshot](screenshots/dashboard.png)  
+*A modern web application for efficient user management with role-based access control.*
 
-## Features
+## 🚀 Overview
 
-- **Admin Interface**:  
-  - Full access to all operations: **Create**, **Read**, **Update**, and **Delete** user records.  
-  - Admin-specific "Admin Operation" column for data management.
+A secure CRUD (Create, Read, Update, Delete) web application designed for streamlined user information management. Features distinct interfaces for administrators and standard users, ensuring data security through role-based permissions.
 
-- **User Interface**:  
-  - View-only access to records, ensuring data integrity.  
-  - No visibility of admin operations.
+## ✨ Key Features
 
-## Technology Stack
+### 👨💻 Admin Interface
+- **Full CRUD Operations**: Create, view, edit, and delete user records
+- **Admin-Exclusive Tools**: Dedicated "Admin Operations" column
+- **User Management**: Modify roles and permissions
 
-- **Frontend**: HTML, CSS, JavaScript (Bootstrap for responsive design)  
-- **Backend**: PHP (Core PHP for server-side logic)  
-- **Database**: MySQL (for persistent data storage)  
+### 👤 User Interface
+- **Read-Only Access**: View user data without modification capabilities
+- **Simplified Dashboard**: Clean interface focused on essential information
 
-## Installation
+## 🛠 Technology Stack
 
-1. Clone the repository:
+| Component       | Technologies                                                                                     |
+|-----------------|--------------------------------------------------------------------------------------------------|
+| **Frontend**    | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Backend**     | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)              |
+| **Database**    | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)        |
+
+## 📥 Installation Guide
+
+1. **Clone Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/yourusername/user-management-system.git
+   cd user-management-system
